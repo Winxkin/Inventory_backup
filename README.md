@@ -1,3 +1,11 @@
 # Inventory_backup
-Data train 30k data (store_empty_30k.zip)
-train and compair between yolov2 -> yolov4
+This project will train two model detection
+
+1. model detect out of stock
+    data: store_empty_30k
+
+2. model detect in stock
+    data: store_object_9k
+
+Note: compair between yolov3-tiny and yolov4-tiny
+
